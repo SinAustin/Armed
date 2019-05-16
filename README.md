@@ -20,7 +20,7 @@ This system could be run on surveillance cameras inside and outside of any build
 would alert the individuals inside or even put the location on lockdown if it detects a firearm in a person's 
 possesion. This project is a base proof of concept for the object detection portion of such a system
 ## Evaluation
-This project shows that object detection of firearms is works and given stronger hardware and more training data a model could be a 
+This project shows that object detection of firearms works and given stronger hardware and more training data a model could be a 
 viable way to protect the people we care about. The next steps in this project would be more training on security footage and the build-out of a popup and warning system.
 
 ### Things used:
