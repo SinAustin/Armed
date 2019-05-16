@@ -1,5 +1,6 @@
 #     Armed.
 # Object detection for protection.
+![](Screenshot from 2019-05-16 14-04-32.png)
 
 ## Summary:
 This is a project with to see if I can use object detection to identify a firearm in someones possesion.
