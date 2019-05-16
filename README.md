@@ -10,7 +10,9 @@ In modern day America nearly 79,000 people are injured  annually from gun violen
 Over 40% of those injuries result in fatalities.  From mass shootings at concerts to the use 
 of firearms where the most vulnerable of us learn. The problem of unidentified individuals 
 entering our most sensitive and sacred places to do harm with firearms is well known and largely 
-unaddressed.  
+unaddressed. 
+#
+![](/rm_imgs/02.jpg)
 ## The Proposal:
 The public has no idea that someone with a gun is about to wreak havoc until they hear shots in the air. 
 Where every second matters, we all wish that someone had seen this terrible act incoming and had locked
@@ -22,7 +24,7 @@ would alert the individuals inside or even put the location on lockdown if it de
 possesion. This project is a base proof of concept for the object detection portion of such a system
 ## Evaluation
 This project shows that object detection of firearms works and given stronger hardware and more training data a model could be a 
-viable way to protect the people we care about. The next steps in this project would be more training on security footage and the build-out of a popup and warning system.
+viable way to protect the people we care about. The next steps in this project would be more training on security footage and the build-out of a popup and warning system.![](/rm_imgs/01.jpg)
 
 ### Things used:
 ###### TensorFlow
