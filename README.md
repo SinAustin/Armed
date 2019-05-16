@@ -22,6 +22,11 @@ on a person before a person before the a person intending to do harm begins his 
 This system could be run on surveillance cameras inside and outside of any building(say a school) an 
 would alert the individuals inside or even put the location on lockdown if it detects a firearm in a person's 
 possesion. This project is a base proof of concept for the object detection portion of such a system
+## Data 
+The images I trained and tested on are from search engines, free to use movies and videos, and personally taken images
+to fill in missing angles. I used labelImg to location and put bounding boxes on the target items in the photos.
+Because my main focus was identification of a firearm fast I didn't focus on models that had high accuracy when choosing a model.
+In the end I used the tensorflow ssd_mobilenet_v1 model.
 ## Evaluation
 This project shows that object detection of firearms works and given stronger hardware and more training data a model could be a 
 viable way to protect the people we care about. The next steps in this project would be more training on security footage and the build-out of a popup and warning system.![](/rm_imgs/01.jpg)
