@@ -27,6 +27,10 @@ The images I trained and tested on are from search engines, free to use movies a
 to fill in missing angles. I used labelImg to locate and place bounding boxes on the target items in the photos.
 Because my main focus was the identying a firearm quickly, I didn't focus on the models with the highest accuracy when choosing a model.
 In the end, I used the tensorflow ssd_mobilenet_v1 model.
+## After training the model started to show progress.
+
+![](/ajupyter_img/14.png)
+![](/ajupyter_img/15.png)
 ## Evaluation
 This project shows that object detection of firearms works and given stronger hardware and more training data a model could be a 
 viable way to protect the people we care about. The next steps in this project would be more training on security footage and the build-out of a popup and warning system.![](/rm_imgs/01.jpg)
