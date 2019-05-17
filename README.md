@@ -1,6 +1,6 @@
 #     Armed.
 # Object detection for protection.
-![](Screenshot%20from%202019-05-16%2014-04-32.png)
+![](rm_imgs/Screenshot%20labelimg.png)
 
 ## Summary:
 This is a project with to see if I can use object detection to identify a firearm in someones possesion.
